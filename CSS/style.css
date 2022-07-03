@@ -1,0 +1,65 @@
+  *
+        {
+            background-color: lightblue;
+            margin: 0;
+            padding: 0;
+        }
+        .formstyle
+        {
+            width: 300px;
+            height: 330px;
+            margin: 20px auto;
+            border-radius: 5px;
+        }
+         h1 
+        {
+            text-align: center;
+            padding: 20px;
+            color: black;
+            background-color: lightgreen;
+        }
+        .btn
+        {
+            width: 50px;
+            height: 50px;
+            font-size: 25px;
+            margin: 2px;
+            cursor: pointer;
+            background-color:gray;
+            color:black;
+            border-radius: 10%;
+        }  
+        .textview
+        {
+            width: 223px;
+            margin: 5px;
+            font-size: 25px;
+            padding: 5px;
+            cursor:default;
+            background-color: white;
+            border-radius: 10px;
+        }
+        .btn:hover
+        {
+                background-color: aliceblue;
+        }
+        #b1:hover
+        {
+            background-color: yellow;
+        }
+        #b2:hover
+        {
+            background-color: red;
+        }
+        #b3:hover
+        {
+            background-color: green;
+        }
+        #b4:hover
+        {
+            background-color: blue;
+        }
+        #b5:hover
+        {
+            background-color: orange;
+        }
